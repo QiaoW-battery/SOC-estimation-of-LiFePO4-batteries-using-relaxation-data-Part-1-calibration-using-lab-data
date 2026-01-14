@@ -6,7 +6,7 @@ If you find the preprocessed dataset helpful please cite our paper.
 
 Other interesting paper can be find online at https://scholar.google.cz/citations?hl=zh-CN&user=UzwmgUwAAAAJ&view_op=list_works&sortby=pubdate
 
-A further study concerning the state of charge estimation for LiFePO4 batteries in 300 electric buses is currently 
+A further study concerning the state of charge estimation for LiFePO4 batteries in 800 electric buses is currently 
 
 underway, with the relevant dataset and code due for imminent release.
 
