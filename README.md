@@ -11,5 +11,5 @@ A further study concerning the state of charge estimation for LiFePO4 batteries 
 underway, with the relevant dataset and code due for imminent release.
 
 ATTENTION: THE DATA IS ONLY FOR ACADEMIC STUDY. NO COMMERCIAL USE PLEASE!
+<img width="689" height="579" alt="image" src="https://github.com/user-attachments/assets/47ec2c6d-4b72-4a6d-bc9f-7980363d413f" />
 
-<img width="688" height="582" alt="image" src="https://github.com/user-attachments/assets/56e29ade-4587-47cd-a65b-d9cc37991f38" />
